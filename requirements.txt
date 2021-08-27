@@ -10,15 +10,13 @@ scipy==1.7.1
 sympy==1.8
 dask==2021.8.1
 cubes==1.1
-mlpy==0.1.0
-pytorch==1.0.2
 sqlalchemy==1.4.23
 sagemath==1.3.0
-ScientificPython==2.9.4
 scikit-image==0.18.3
 scikit-learn==0.24.2
 tensorflow==2.6.0
 theano==1.0.5
 statsmodels==0.12.2
-stan==1.0
 apache-airflow==2.1.3 
+fastapi==0.68.1
+requests==2.26.0
